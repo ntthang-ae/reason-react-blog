@@ -1,1 +1,1 @@
-# reason-react-blog
+create a simple blog with reasonml and microservices in cloud (AWS/GCP/DigitalOcean)
